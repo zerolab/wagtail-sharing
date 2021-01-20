@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 
 install_requires = [
-    "wagtail>=2.3,<2.11",
+    "wagtail>=2.3,<3",
     "pyjwt>1.7,<2.0",
 ]
 
